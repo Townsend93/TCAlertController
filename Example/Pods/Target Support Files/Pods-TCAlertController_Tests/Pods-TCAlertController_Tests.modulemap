@@ -1,0 +1,6 @@
+framework module Pods_TCAlertController_Tests {
+  umbrella header "Pods-TCAlertController_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

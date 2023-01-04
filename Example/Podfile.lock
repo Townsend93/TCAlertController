@@ -1,0 +1,16 @@
+PODS:
+  - TCAlertController (1.0.0)
+
+DEPENDENCIES:
+  - TCAlertController (from `../`)
+
+EXTERNAL SOURCES:
+  TCAlertController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TCAlertController: f3bbb4b977867a421c4428deb8a70992b5a4a79e
+
+PODFILE CHECKSUM: 5f97560dff602f0017fcfddfd4a3dae02d5cc46c
+
+COCOAPODS: 1.11.3

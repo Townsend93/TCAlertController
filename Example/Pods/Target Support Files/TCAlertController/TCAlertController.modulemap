@@ -1,0 +1,6 @@
+framework module TCAlertController {
+  umbrella header "TCAlertController-umbrella.h"
+
+  export *
+  module * { export * }
+}
